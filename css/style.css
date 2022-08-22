@@ -12,7 +12,7 @@
 }
 #title h1{
   font-size: 4rem;
-}
+}/*linter error*/
 #img-div{
     background: white;
     padding: 10px;
@@ -40,4 +40,4 @@
 
 #tribute-link{
     color: #477ca7;
-}
+}/*linter error*/
